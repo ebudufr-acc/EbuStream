@@ -1,0 +1,625 @@
+#EXTM3U
+#=== BANGLADESH CHANNELS ===
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/channels/BTV.png" group-title="Bangladesh", BTV National
+https://bcllive.bongobd.com/btv-national/index.m3u8
+
+#EXTINF:-1 tvg-id="BTV_World" tvg-name="BTV World" group-title="Bangladesh", BTV World
+https://bcllive.bongobd.com/btv-world/index.m3u8
+
+#EXTINF:-1 tvg-id="BTV_Chittagong" tvg-name="BTV Chittagong" group-title="Bangladesh", BTV Chittagong
+https://bcllive.bongobd.com/btv-chittagong/index.m3u8
+
+#EXTINF:-1 tvg-id="Sangsad_TV" tvg-name="Sangsad TV" group-title="Bangladesh", Sangsad TV
+https://bcllive.bongobd.com/sangsad-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="SomoyTV" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/channels/SomoyTV.png" group-title="Bangladesh", Somoy TV
+https://live-somoy.akamaized.net/hls/live/2094247/somoy/index.m3u8
+
+#EXTINF:-1 tvg-id="JamunaTV" tvg-name="Jamuna TV" group-title="Bangladesh", Jamuna TV
+https://jamunalive.akamaized.net/hls/live/2099307/jamuna/master.m3u8
+
+#EXTINF:-1 tvg-id="EkattorTV" tvg-name="Ekattor TV" group-title="Bangladesh", Ekattor TV
+https://ekattorlive.akamaized.net/hls/live/2103437/ekattor/index.m3u8
+
+#EXTINF:-1 tvg-id="IndependentTV" tvg-name="Independent TV" group-title="Bangladesh", Independent TV
+https://itvlive.akamaized.net/hls/live/2094246/itv/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel24" tvg-name="Channel 24" group-title="Bangladesh", Channel 24
+https://c24live.akamaized.net/hls/live/2103435/c24/master.m3u8
+
+#EXTINF:-1 tvg-id="DBCNews" tvg-name="DBC News" group-title="Bangladesh", DBC News
+https://dbclive.akamaized.net/hls/live/2103454/dbc/index.m3u8
+
+#EXTINF:-1 tvg-id="News24" tvg-name="News 24" group-title="Bangladesh", News 24
+https://news24live.akamaized.net/hls/live/2103440/news24/master.m3u8
+
+#EXTINF:-1 tvg-id="ATNNews" tvg-name="ATN News" group-title="Bangladesh", ATN News
+https://atnnewslive.akamaized.net/hls/live/2103442/atnnews/index.m3u8
+
+#EXTINF:-1 tvg-id="Channeli" tvg-name="Channel i" group-title="Bangladesh", Channel i
+https://channelilive.akamaized.net/hls/live/2103438/channeli/master.m3u8
+
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" group-title="Bangladesh", NTV
+https://ntvlive.akamaized.net/hls/live/2103439/ntv/master.m3u8
+
+#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" group-title="Bangladesh", RTV
+https://rtvlive.akamaized.net/hls/live/2103436/rtv/index.m3u8
+
+#EXTINF:-1 tvg-id="DeeptoTV" tvg-name="Deepto TV" group-title="Bangladesh", Deepto TV
+https://deepto.akamaized.net/deepto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Banglavision" tvg-name="Banglavision" group-title="Bangladesh", Banglavision
+https://bvlive.akamaized.net/hls/live/2103443/bv/master.m3u8
+
+#EXTINF:-1 tvg-id="MaasrangaTV" tvg-name="Maasranga TV" group-title="Bangladesh", Maasranga TV
+https://maasrangalive.akamaized.net/hls/live/2103444/maasranga/master.m3u8
+
+#EXTINF:-1 tvg-id="GTV" tvg-name="Gazi TV" group-title="Bangladesh", GTV (Gazi TV)
+https://gtvlive.akamaized.net/hls/live/2103445/gtv/master.m3u8
+
+#EXTINF:-1 tvg-id="TSports" tvg-name="T Sports" group-title="Bangladesh", T Sports
+https://tsportslive.akamaized.net/hls/live/2103446/tsports/master.m3u8
+
+#EXTINF:-1 tvg-id="ATNBangla" tvg-name="ATN Bangla" group-title="Bangladesh", ATN Bangla
+https://atnbanglalive.akamaized.net/hls/live/2103441/atnbangla/master.m3u8
+
+#EXTINF:-1 tvg-id="EkusheyTV" tvg-name="Ekushey TV" group-title="Bangladesh", Ekushey TV (ETV)
+https://etvlive.akamaized.net/hls/live/2103447/etv/index.m3u8
+
+#EXTINF:-1 tvg-id="AsianTV" tvg-name="Asian TV" group-title="Bangladesh", Asian TV
+https://asiantvlive.akamaized.net/hls/live/2103448/asiantv/index.m3u8
+
+#EXTINF:-1 tvg-id="MohonaTV" tvg-name="Mohona TV" group-title="Bangladesh", Mohona TV
+https://mohonalive.akamaized.net/hls/live/2103449/mohona/index.m3u8
+
+#EXTINF:-1 tvg-id="BoishakhiTV" tvg-name="Boishakhi TV" group-title="Bangladesh", Boishakhi TV
+https://boishakhilive.akamaized.net/hls/live/2103450/boishakhi/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel9" tvg-name="Channel 9" group-title="Bangladesh", Channel 9
+https://c9live.akamaized.net/hls/live/2103451/c9/index.m3u8
+
+#EXTINF:-1 tvg-id="DeshTV" tvg-name="Desh TV" group-title="Bangladesh", Desh TV
+https://deshlive.akamaized.net/hls/live/2103452/deshtv/index.m3u8
+
+#EXTINF:-1 tvg-id="SA_TV" tvg-name="SA TV" group-title="Bangladesh", SA TV
+https://satvlive.akamaized.net/hls/live/2103453/satv/index.m3u8
+
+#EXTINF:-1 tvg-id="BijoyTV" tvg-name="Bijoy TV" group-title="Bangladesh", Bijoy TV
+https://bijoylive.akamaized.net/hls/live/2103456/bijoy/index.m3u8
+
+#EXTINF:-1 tvg-id="AnandaTV" tvg-name="Ananda TV" group-title="Bangladesh", Ananda TV
+https://anandalive.akamaized.net/hls/live/2103457/ananda/index.m3u8
+
+#EXTINF:-1 tvg-id="NagarikTV" tvg-name="Nagarik TV" group-title="Bangladesh", Nagarik TV
+https://nagariklive.akamaized.net/hls/live/2103459/nagarik/index.m3u8
+
+#EXTINF:-1 tvg-id="MyTV" tvg-name="My TV" group-title="Bangladesh", My TV
+https://mytvlive.akamaized.net/hls/live/2103460/mytv/master.m3u8
+
+#EXTINF:-1 tvg-id="NexusTV" tvg-name="Nexus TV" group-title="Bangladesh", Nexus TV
+https://nexuslive.akamaized.net/hls/live/2103461/nexus/master.m3u8
+
+#EXTINF:-1 tvg-id="GreenTV" tvg-name="Green TV" group-title="Bangladesh", Green TV
+https://greentvlive.akamaized.net/hls/live/2103462/greentv/index.m3u8
+
+#EXTINF:-1 tvg-id="GlobalTV" tvg-name="Global TV" group-title="Bangladesh", Global TV
+https://globaltvlive.akamaized.net/hls/live/2103463/globaltv/index.m3u8
+
+#EXTINF:-1 tvg-id="BanglaTV" tvg-name="Bangla TV" group-title="Bangladesh", Bangla TV
+https://banglatvlive.akamaized.net/hls/live/2103464/banglatv/master.m3u8
+
+#EXTINF:-1 tvg-id="ChannelS" tvg-name="Channel S" group-title="Bangladesh", Channel S
+https://channelslive.akamaized.net/hls/live/2103465/channels/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelS_UK" tvg-name="Channel S UK" group-title="Bangladesh", Channel S UK
+https://channelsuk.akamaized.net/hls/live/2103468/chsuk/index.m3u8
+
+#EXTINF:-1 tvg-id="GaanBangla" tvg-name="Gaan Bangla" group-title="Music", Gaan Bangla
+https://gblive.akamaized.net/hls/live/2103467/gb/master.m3u8
+
+#EXTINF:-1 tvg-id="As-Sunnah_TV" tvg-name="As-Sunnah TV" group-title="Islamic", As-Sunnah TV
+https://assunnah.akamaized.net/hls/live/2103458/assunnah/master.m3u8
+
+#EXTINF:-1 tvg-id="Madani_Channel_Bangla" tvg-name="Madani Channel Bangla" group-title="Islamic", Madani Channel Bangla
+https://madani.akamaized.net/hls/live/2103466/madani/index.m3u8
+
+#EXTINF:-1 tvg-id="PeaceTV_Bangla" tvg-name="Peace TV Bangla" group-title="Islamic", Peace TV Bangla
+https://peacetv.akamaized.net/hls/live/2103469/peace/master.m3u8
+
+
+#=== CARTOON & KIDS CHANNELS ===
+#--- BANGLA KIDS ---
+#EXTINF:-1 tvg-id="DurontoTV" tvg-name="Duronto TV" group-title="Kids Bangla", Duronto TV Bangladesh
+https://durontolive.akamaized.net/hls/live/2103455/duronto/master.m3u8
+
+#EXTINF:-1 tvg-id="SonyYAYBangla" tvg-name="Sony YAY Bangla" group-title="Kids Bangla", Sony YAY (Bangla Audio)
+https://sonyyay-bn.akamaized.net/hls/live/620001/yaybn/master.m3u8
+
+#EXTINF:-1 tvg-id="NickBangla" tvg-name="Nickelodeon Bangla" group-title="Kids Bangla", Nickelodeon (Bangla Audio)
+https://nick-bn.akamaized.net/hls/live/620002/nickbn/master.m3u8
+
+#--- HINDI KIDS ---
+#EXTINF:-1 tvg-id="SonyYay" tvg-name="Sony Yay Hindi" group-title="Kids Hindi", Sony Yay
+https://sonyyay.akamaized.net/hls/live/610026/yay/master.m3u8
+
+#EXTINF:-1 tvg-id="NickHindi" tvg-name="Nickelodeon Hindi" group-title="Kids Hindi", Nick Hindi (Nick TV)
+https://nick.akamaized.net/hls/live/610027/nick/master.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkHindi" tvg-name="Cartoon Network Hindi" group-title="Kids Hindi", Cartoon Network (CN Hindi)
+https://cnhindi.akamaized.net/hls/live/620003/cnhn/master.m3u8
+
+#EXTINF:-1 tvg-id="Pogo" tvg-name="Pogo TV" group-title="Kids Hindi", Pogo TV India
+https://pogo.akamaized.net/hls/live/620004/pogo/index.m3u8
+
+#EXTINF:-1 tvg-id="Hungama" tvg-name="Hungama TV" group-title="Kids Hindi", Hungama TV
+https://hungama.akamaized.net/hls/live/620005/hungama/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKidsHindi" tvg-name="Discovery Kids Hindi" group-title="Kids Hindi", Discovery Kids Hindi
+https://disckids-hn.akamaized.net/hls/live/620006/dkids/master.m3u8
+
+#--- ENGLISH KIDS ---
+#EXTINF:-1 tvg-id="CartoonNetwork_US" tvg-name="Cartoon Network USA" group-title="Kids English", Cartoon Network English
+https://cn-us.akamaized.net/hls/live/620007/cnus/master.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel_US" tvg-name="Disney Channel USA" group-title="Kids English", Disney Channel English
+https://disney-us.akamaized.net/hls/live/620008/disney/master.m3u8
+
+#EXTINF:-1 tvg-id="Nick_US" tvg-name="Nickelodeon USA" group-title="Kids English", Nickelodeon English
+https://nick-us.akamaized.net/hls/live/620009/nickus/master.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang_UK" tvg-name="Boomerang UK" group-title="Kids English", Boomerang UK
+https://boomerang-uk.akamaized.net/hls/live/620010/boom/master.m3u8
+
+
+#=== DISCOVERY & INFOTAINMENT ===
+#--- HINDI INFOTAINMENT ---
+#EXTINF:-1 tvg-id="DiscoveryHindi" tvg-name="Discovery Channel Hindi" group-title="Infotainment Hindi", Discovery Hindi
+https://discovery.akamaized.net/hls/live/610023/disco/master.m3u8
+
+#EXTINF:-1 tvg-id="NatGeoHindi" tvg-name="National Geographic Hindi" group-title="Infotainment Hindi", Nat Geo Hindi
+https://natgeo.akamaized.net/hls/live/610024/natgeo/master.m3u8
+
+#EXTINF:-1 tvg-id="HistoryTV18Hindi" tvg-name="History TV18 Hindi" group-title="Infotainment Hindi", History TV18 Hindi
+https://history18.akamaized.net/hls/live/610025/history/master.m3u8
+
+#EXTINF:-1 tvg-id="SonyBBCEarthHindi" tvg-name="Sony BBC Earth Hindi" group-title="Infotainment Hindi", Sony BBC Earth Hindi
+https://bbcearth-hn.akamaized.net/hls/live/630001/earthhn/master.m3u8
+
+#--- ENGLISH INFOTAINMENT ---
+#EXTINF:-1 tvg-id="Discovery_US" tvg-name="Discovery Channel USA" group-title="Infotainment English", Discovery Channel English
+https://discovery-us.akamaized.net/hls/live/630002/discus/master.m3u8
+
+#EXTINF:-1 tvg-id="NatGeo_US" tvg-name="National Geographic USA" group-title="Infotainment English", National Geographic English
+https://natgeo-us.akamaized.net/hls/live/630003/natgeous/master.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet_US" tvg-name="Animal Planet USA" group-title="Infotainment English", Animal Planet English
+https://animalplanet-us.akamaized.net/hls/live/630004/aplanet/master.m3u8
+
+#EXTINF:-1 tvg-id="History_US" tvg-name="History Channel USA" group-title="Infotainment English", History Channel English
+https://history-us.akamaized.net/hls/live/630005/historyus/master.m3u8
+
+#EXTINF:-1 tvg-id="Discovery_Science" tvg-name="Discovery Science" group-title="Infotainment English", Discovery Science Global
+https://discscience.akamaized.net/hls/live/630006/science/master.m3u8
+
+#EXTINF:-1 tvg-id="ID_Investigation_Discovery" tvg-name="Investigation Discovery" group-title="Infotainment English", ID (Investigation Discovery)
+https://id-us.akamaized.net/hls/live/630007/id/master.m3u8
+
+
+#=== INDIA BANGLA (WEST BENGAL) ===
+#EXTINF:-1 tvg-id="ZeeBangla" tvg-name="Zee Bangla" group-title="India Bangla", Zee Bangla
+https://zeebangla.akamaized.net/hls/live/509424/zee/master.m3u8
+
+#EXTINF:-1 tvg-id="StarJalsha" tvg-name="Star Jalsha" group-title="India Bangla", Star Jalsha
+https://jalshalive.akamaized.net/hls/live/509425/starjalsha/index.m3u8
+
+#EXTINF:-1 tvg-id="ColorsBangla" tvg-name="Colors Bangla" group-title="India Bangla", Colors Bangla
+https://colorslive.akamaized.net/hls/live/509426/colors/master.m3u8
+
+#EXTINF:-1 tvg-id="JalshaMovies" tvg-name="Jalsha Movies" group-title="India Bangla", Jalsha Movies
+https://movieslive.akamaized.net/hls/live/509427/jmovies/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBanglaCinema" tvg-name="Zee Bangla Cinema" group-title="India Bangla", Zee Bangla Cinema
+https://zeecinemalive.akamaized.net/hls/live/509428/zeecinema/master.m3u8
+
+#EXTINF:-1 tvg-id="SonyAath" tvg-name="Sony Aath" group-title="India Bangla", Sony Aath
+https://sonyaath.akamaized.net/hls/live/509431/aath/master.m3u8
+
+#EXTINF:-1 tvg-id="AakashAath" tvg-name="Aakash Aath" group-title="India Bangla", Aakash Aath
+https://aakash.akamaized.net/hls/live/509433/aakash8/master.m3u8
+
+#EXTINF:-1 tvg-id="RupashiBangla" tvg-name="Rupashi Bangla" group-title="India Bangla", Rupashi Bangla
+https://rupashi.akamaized.net/hls/live/509434/rupashi/index.m3u8
+
+#EXTINF:-1 tvg-id="Enterr10Bangla" tvg-name="Enterr10 Bangla" group-title="India Bangla", Enterr10 Bangla
+https://enterr10.akamaized.net/hls/live/509435/e10b/master.m3u8
+
+#EXTINF:-1 tvg-id="DDBangla" tvg-name="DD Bangla" group-title="India Bangla", DD Bangla
+https://ddbangla.akamaized.net/hls/live/509436/ddb/index.m3u8
+
+#EXTINF:-1 tvg-id="ABPAnanda" tvg-name="ABP Ananda" group-title="India Bangla", ABP Ananda
+https://abpananda.akamaized.net/hls/live/509429/abp/index.m3u8
+
+#EXTINF:-1 tvg-id="News18Bangla" tvg-name="News18 Bangla" group-title="India Bangla", News18 Bangla
+https://news18live.akamaized.net/hls/live/509430/news18/index.m3u8
+
+#EXTINF:-1 tvg-id="CalcuttaNews" tvg-name="Calcutta News" group-title="India Bangla", Calcutta News
+https://calcutta.akamaized.net/hls/live/509437/cn/index.m3u8
+
+#EXTINF:-1 tvg-id="KolkataTV" tvg-name="Kolkata TV" group-title="India Bangla", Kolkata TV
+https://kolkatatv.akamaized.net/hls/live/509438/ktv/index.m3u8
+
+#EXTINF:-1 tvg-id="RepublicBangla" tvg-name="Republic Bangla" group-title="India Bangla", Republic Bangla
+https://republicb.akamaized.net/hls/live/509439/rbangla/master.m3u8
+
+#EXTINF:-1 tvg-id="StarSports1Bangla" tvg-name="Star Sports 1 Bangla" group-title="India Bangla", Star Sports 1 Bangla
+https://ss1bangla.akamaized.net/hls/live/509432/ss1b/index.m3u8
+
+#EXTINF:-1 tvg-id="SangeetBangla" tvg-name="Sangeet Bangla" group-title="India Bangla", Sangeet Bangla
+https://sangeet.akamaized.net/hls/live/509440/sb/master.m3u8
+
+#EXTINF:-1 tvg-id="DhoomMusic" tvg-name="Dhoom Music" group-title="India Bangla", Dhoom Music
+https://dhoom.akamaized.net/hls/live/509441/dhoom/index.m3u8
+
+
+#=== HINDI ENTERTAINMENT & MOVIES ===
+#EXTINF:-1 tvg-id="StarPlus" tvg-name="Star Plus" group-title="Hindi Entertainment", Star Plus
+https://starplus.akamaized.net/hls/live/610001/splus/master.m3u8
+
+#EXTINF:-1 tvg-id="SonyTV" tvg-name="Sony Entertainment Television" group-title="Hindi Entertainment", Sony TV
+https://sonytv.akamaized.net/hls/live/610002/set/master.m3u8
+
+#EXTINF:-1 tvg-id="Colors" tvg-name="Colors TV" group-title="Hindi Entertainment", Colors TV
+https://colorshindi.akamaized.net/hls/live/610003/colors/master.m3u8
+
+#EXTINF:-1 tvg-id="ZeeTV" tvg-name="Zee TV" group-title="Hindi Entertainment", Zee TV
+https://zeetvhindi.akamaized.net/hls/live/610004/zeetv/master.m3u8
+
+#EXTINF:-1 tvg-id="SABTV" tvg-name="Sony SAB" group-title="Hindi Entertainment", Sony SAB
+https://sonysab.akamaized.net/hls/live/610005/sab/master.m3u8
+
+#EXTINF:-1 tvg-id="StarBharat" tvg-name="Star Bharat" group-title="Hindi Entertainment", Star Bharat
+https://starbharat.akamaized.net/hls/live/610006/sbharat/master.m3u8
+
+#EXTINF:-1 tvg-id="&TV" tvg-name="&tv" group-title="Hindi Entertainment", &TV
+https://andtv.akamaized.net/hls/live/610007/andtv/master.m3u8
+
+#EXTINF:-1 tvg-id="Dangal" tvg-name="Dangal TV" group-title="Hindi Entertainment", Dangal TV
+https://dangal.akamaized.net/hls/live/610008/dangal/index.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooUmang" tvg-name="Shemaroo Umang" group-title="Hindi Entertainment", Shemaroo Umang
+https://shemaroo.akamaized.net/hls/live/610009/umang/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMax" tvg-name="Sony Max" group-title="Hindi Movies", Sony Max
+https://sonymax.akamaized.net/hls/live/610010/max/master.m3u8
+
+#EXTINF:-1 tvg-id="SonyMax2" tvg-name="Sony Max 2" group-title="Hindi Movies", Sony Max 2
+https://sonymax2.akamaized.net/hls/live/610011/max2/master.m3u8
+
+#EXTINF:-1 tvg-id="StarGold" tvg-name="Star Gold" group-title="Hindi Movies", Star Gold
+https://stargold.akamaized.net/hls/live/610012/sgold/master.m3u8
+
+#EXTINF:-1 tvg-id="StarGold2" tvg-name="Star Gold 2" group-title="Hindi Movies", Star Gold 2
+https://stargold2.akamaized.net/hls/live/610013/sgold2/master.m3u8
+
+#EXTINF:-1 tvg-id="ZeeCinema" tvg-name="Zee Cinema" group-title="Hindi Movies", Zee Cinema
+https://zeecinema.akamaized.net/hls/live/610014/zcinema/master.m3u8
+
+#EXTINF:-1 tvg-id="&Pictures" tvg-name="&pictures" group-title="Hindi Movies", &Pictures
+https://andpictures.akamaized.net/hls/live/610015/andpix/master.m3u8
+
+#EXTINF:-1 tvg-id="ColorsCineplex" tvg-name="Colors Cineplex" group-title="Hindi Movies", Colors Cineplex
+https://cineplex.akamaized.net/hls/live/610016/cineplex/master.m3u8
+
+#EXTINF:-1 tvg-id="B4UMovies" tvg-name="B4U Movies" group-title="Hindi Movies", B4U Movies
+https://b4umovies.akamaized.net/hls/live/610017/b4um/index.m3u8
+
+#EXTINF:-1 tvg-id="Goldmines" tvg-name="Goldmines TV" group-title="Hindi Movies", Goldmines TV
+https://goldmines.akamaized.net/hls/live/610018/gold/index.m3u8
+
+
+#=== HINDI SPORTS ===
+#EXTINF:-1 tvg-id="StarSports1Hindi" tvg-name="Star Sports 1 Hindi" group-title="Hindi Sports", Star Sports 1 Hindi
+https://ss1hindi.akamaized.net/hls/live/610019/ss1h/index.m3u8
+
+#EXTINF:-1 tvg-id="SonySportsTen1" tvg-name="Sony Sports Ten 1" group-title="Hindi Sports", Sony Sports Ten 1
+https://ten1.akamaized.net/hls/live/610020/ten1/master.m3u8
+
+#EXTINF:-1 tvg-id="SonySportsTen3" tvg-name="Sony Sports Ten 3 (Hindi)" group-title="Hindi Sports", Sony Sports Ten 3 Hindi
+https://ten3.akamaized.net/hls/live/610021/ten3/master.m3u8
+
+#EXTINF:-1 tvg-id="Sports18_1_Hindi" tvg-name="Sports18 1 Hindi" group-title="Hindi Sports", Sports18 1 Hindi
+https://sports18h.akamaized.net/hls/live/610022/s18h/master.m3u8
+
+
+#=== HINDI NEWS CHANNELS ===
+#EXTINF:-1 tvg-id="AajTak" tvg-name="Aaj Tak" group-title="Hindi News", Aaj Tak
+https://aajtak.akamaized.net/hls/live/610028/aajtak/index.m3u8
+
+#EXTINF:-1 tvg-id="ABPNews" tvg-name="ABP News" group-title="Hindi News", ABP News
+https://abpnews.akamaized.net/hls/live/610029/abpnews/index.m3u8
+
+#EXTINF:-1 tvg-id="IndiaTV" tvg-name="India TV" group-title="Hindi News", India TV
+https://indiatv.akamaized.net/hls/live/610030/indiatv/index.m3u8
+
+#EXTINF:-1 tvg-id="NDTVIndia" tvg-name="NDTV India" group-title="Hindi News", NDTV India
+https://ndtvindia.akamaized.net/hls/live/610031/ndtv/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeNews" tvg-name="Zee News" group-title="Hindi News", Zee News
+https://zeenews.akamaized.net/hls/live/610032/zeenews/master.m3u8
+
+#EXTINF:-1 tvg-id="News18India" tvg-name="News18 India" group-title="Hindi News", News18 India
+https://news18india.akamaized.net/hls/live/610033/n18i/index.m3u8
+
+#EXTINF:-1 tvg-id="RepublicBharat" tvg-name="Republic Bharat" group-title="Hindi News", Republic Bharat
+https://republicbharat.akamaized.net/hls/live/610034/rbharat/master.m3u8
+
+#EXTINF:-1 tvg-id="TV9Bharatvarsh" tvg-name="TV9 Bharatvarsh" group-title="Hindi News", TV9 Bharatvarsh
+https://tv9bharat.akamaized.net/hls/live/610035/tv9/index.m3u8
+
+#EXTINF:-1 tvg-id="GoodNewsToday" tvg-name="Good News Today" group-title="Hindi News", Good News Today (GNT)
+https://gnt.akamaized.net/hls/live/610036/gnt/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsNation" tvg-name="News Nation" group-title="Hindi News", News Nation
+https://newsnation.akamaized.net/hls/live/610037/nn/index.m3u8
+
+#EXTINF:-1 tvg-id="News24Hindi" tvg-name="News 24 Hindi" group-title="Hindi News", News 24 Hindi
+https://news24hindi.akamaized.net/hls/live/610038/n24h/index.m3u8
+
+
+#=== HINDI MUSIC & LIFESTYLE ===
+#EXTINF:-1 tvg-id="MTV_India" tvg-name="MTV India" group-title="Hindi Music", MTV India
+https://mtvindia.akamaized.net/hls/live/610039/mtv/master.m3u8
+
+#EXTINF:-1 tvg-id="9XMinis" tvg-name="9XM" group-title="Hindi Music", 9XM
+https://9xm.akamaized.net/hls/live/610040/9xm/index.m3u8
+
+#EXTINF:-1 tvg-id="9XJalwa" tvg-name="9X Jalwa" group-title="Hindi Music", 9X Jalwa
+https://9xjalwa.akamaized.net/hls/live/610041/jalwa/index.m3u8
+
+#EXTINF:-1 tvg-id="Mastiii" tvg-name="Mastiii" group-title="Hindi Music", Mastiii
+https://mastiii.akamaized.net/hls/live/610042/mastiii/index.m3u8
+
+#EXTINF:-1 tvg-id="B4UMusic" tvg-name="B4U Music" group-title="Hindi Music", B4U Music
+https://b4umusic.akamaized.net/hls/live/610043/b4um/index.m3u8
+
+#EXTINF:-1 tvg-id="Zoom" tvg-name="Zoom" group-title="Hindi Music", Zoom TV
+https://zoom.akamaized.net/hls/live/610044/zoom/master.m3u8
+
+
+#=== INTERNATIONAL SPORTS CHANNELS ===
+#--- PAKISTAN SPORTS ---
+#EXTINF:-1 tvg-id="TenSports_PK" tvg-name="Ten Sports Pakistan" group-title="International Sports", Ten Sports Pakistan
+https://tensportspk.akamaized.net/hls/live/710001/tenspk/master.m3u8
+
+#EXTINF:-1 tvg-id="GeoSuper" tvg-name="Geo Super" group-title="International Sports", Geo Super
+https://geosuper.akamaized.net/hls/live/710002/geosuper/index.m3u8
+
+#EXTINF:-1 tvg-id="PTVSports" tvg-name="PTV Sports" group-title="International Sports", PTV Sports
+https://ptvsports.akamaized.net/hls/live/710003/ptvsp/master.m3u8
+
+#EXTINF:-1 tvg-id="ASports" tvg-name="A Sports HD" group-title="International Sports", A Sports HD
+https://asports.akamaized.net/hls/live/710004/asports/master.m3u8
+
+#--- UK SPORTS ---
+#EXTINF:-1 tvg-id="SkySportsMainEvent" tvg-name="Sky Sports Main Event" group-title="International Sports", Sky Sports Main Event
+https://skysp-me.akamaized.net/hls/live/710005/skyme/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsPremierLeague" tvg-name="Sky Sports Premier League" group-title="International Sports", Sky Sports Premier League
+https://skysp-pl.akamaized.net/hls/live/710006/skypl/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsCricket" tvg-name="Sky Sports Cricket" group-title="International Sports", Sky Sports Cricket
+https://skysp-cricket.akamaized.net/hls/live/710007/skycr/master.m3u8
+
+#EXTINF:-1 tvg-id="TNT_Sports1" tvg-name="TNT Sports 1" group-title="International Sports", TNT Sports 1
+https://tnt1.akamaized.net/hls/live/710008/tnt1/master.m3u8
+
+#EXTINF:-1 tvg-id="TNT_Sports2" tvg-name="TNT Sports 2" group-title="International Sports", TNT Sports 2
+https://tnt2.akamaized.net/hls/live/710009/tnt2/master.m3u8
+
+#--- USA & CANADA SPORTS ---
+#EXTINF:-1 tvg-id="ESPN_US" tvg-name="ESPN USA" group-title="International Sports", ESPN USA
+https://espn-us.akamaized.net/hls/live/710010/espn1/master.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2_US" tvg-name="ESPN2" group-title="International Sports", ESPN2 USA
+https://espn2-us.akamaized.net/hls/live/710011/espn2/master.m3u8
+
+#EXTINF:-1 tvg-id="FS1" tvg-name="Fox Sports 1" group-title="International Sports", Fox Sports 1 (FS1)
+https://fs1-us.akamaized.net/hls/live/710012/fs1/master.m3u8
+
+#EXTINF:-1 tvg-id="WillowCricket" tvg-name="Willow Cricket" group-title="International Sports", Willow Cricket USA
+https://willow.akamaized.net/hls/live/710013/willow/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN1" tvg-name="TSN 1" group-title="International Sports", TSN 1 Canada
+https://tsn1-ca.akamaized.net/hls/live/710014/tsn1/master.m3u8
+
+#EXTINF:-1 tvg-id="Sportsnet_East" tvg-name="Sportsnet East" group-title="International Sports", Sportsnet Canada
+https://sportsnet-ca.akamaized.net/hls/live/710015/snet/master.m3u8
+
+#--- MIDDLE EAST SPORTS ---
+#EXTINF:-1 tvg-id="beIN_Sports_News" tvg-name="beIN Sports News" group-title="International Sports", beIN Sports News Arabic
+https://beinsports.akamaized.net/hls/live/710016/bein-news/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN_Sports1" tvg-name="beIN Sports 1 Premium" group-title="International Sports", beIN Sports 1 Premium
+https://bein1.akamaized.net/hls/live/710017/bein1/master.m3u8
+
+#EXTINF:-1 tvg-id="beIN_Sports2" tvg-name="beIN Sports 2 Premium" group-title="International Sports", beIN Sports 2 Premium
+https://bein2.akamaized.net/hls/live/710018/bein2/master.m3u8
+
+#EXTINF:-1 tvg-id="SSC_Sports1" tvg-name="SSC Sports 1" group-title="International Sports", SSC Sports 1 Saudi
+https://ssc1.akamaized.net/hls/live/710019/ssc1/master.m3u8
+
+#EXTINF:-1 tvg-id="AD_Sports1" tvg-name="Abu Dhabi Sports 1" group-title="International Sports", Abu Dhabi Sports 1
+https://adsports1.akamaized.net/hls/live/710020/ads1/index.m3u8
+
+#--- EUROPE & GERMANY SPORTS ---
+#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport 1" group-title="International Sports", Eurosport 1 Europe
+https://eurosport1.akamaized.net/hls/live/710021/euro1/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySportTopEvent_DE" tvg-name="Sky Sport Top Event DE" group-title="International Sports", Sky Sport Germany
+https://skysport-de.akamaized.net/hls/live/710022/skyde/master.m3u8
+
+#EXTINF:-1 tvg-id="DAZN1_DE" tvg-name="DAZN 1 Germany" group-title="International Sports", DAZN 1 DE
+https://dazn1-de.akamaized.net/hls/live/710023/dazn1/master.m3u8
+
+#--- SOUTH AMERICA (ARGENTINA & BRAZIL) ---
+#EXTINF:-1 tvg-id="TyCSports" tvg-name="TyC Sports" group-title="International Sports", TyC Sports Argentina
+https://tyc.akamaized.net/hls/live/710024/tyc/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports_AR" tvg-name="Fox Sports Argentina" group-title="International Sports", Fox Sports Argentina
+https://foxsports-ar.akamaized.net/hls/live/710025/foxar/master.m3u8
+
+#EXTINF:-1 tvg-id="SporTV_BR" tvg-name="SporTV Brazil" group-title="International Sports", SporTV Brazil
+https://sportv-br.akamaized.net/hls/live/710026/sportv/master.m3u8
+
+#EXTINF:-1 tvg-id="ESPN_BR" tvg-name="ESPN Brazil" group-title="International Sports", ESPN Brazil
+https://espn-br.akamaized.net/hls/live/710027/espnbr/master.m3u8
+
+#--- ASIA SPORTS ---
+#EXTINF:-1 tvg-id="NowSports_HK" tvg-name="Now Sports HK" group-title="International Sports", Now Sports Hong Kong
+https://nowsports-hk.akamaized.net/hls/live/710028/nowhk/index.m3u8
+
+#EXTINF:-1 tvg-id="HubSports1" tvg-name="Hub Sports 1" group-title="International Sports", StarHub Sports Singapore
+https://hubsp1-sg.akamaized.net/hls/live/710029/hub1/master.m3u8
+
+#EXTINF:-1 tvg-id="MioSports" tvg-name="Mio Sports" group-title="International Sports", Singtel Mio Sports Singapore
+https://miosports-sg.akamaized.net/hls/live/710030/mio/master.m3u8
+
+
+#=== GLOBAL NEWS CHANNELS ===
+#EXTINF:-1 tvg-id="BBC_World_News" tvg-name="BBC News" group-title="Global News", BBC News International
+https://bbcworld.akamaized.net/hls/live/810001/bbcworld/master.m3u8
+
+#EXTINF:-1 tvg-id="CNN_International" tvg-name="CNN International" group-title="Global News", CNN International
+https://cnn-intl.akamaized.net/hls/live/810002/cnn/master.m3u8
+
+#EXTINF:-1 tvg-id="Al_Jazeera_English" tvg-name="Al Jazeera English" group-title="Global News", Al Jazeera English
+https://aljazeera.akamaized.net/hls/live/810003/aje/master.m3u8
+
+#EXTINF:-1 tvg-id="SkyNews" tvg-name="Sky News" group-title="Global News", Sky News UK
+https://skynews.akamaized.net/hls/live/810004/skynews/master.m3u8
+
+#EXTINF:-1 tvg-id="France24_English" tvg-name="France 24 English" group-title="Global News", France 24 English
+https://france24.akamaized.net/hls/live/810005/f24e/master.m3u8
+
+#EXTINF:-1 tvg-id="Deutsche_Welle_English" tvg-name="DW English" group-title="Global News", DW News English
+https://dw-news.akamaized.net/hls/live/810006/dw/master.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg_TV" tvg-name="Bloomberg Television" group-title="Global News", Bloomberg Global
+https://bloomberg.akamaized.net/hls/live/810007/bloomberg/master.m3u8
+
+#EXTINF:-1 tvg-id="CNA_Singapore" tvg-name="Channel NewsAsia" group-title="Global News", CNA (Channel NewsAsia)
+https://cna-sg.akamaized.net/hls/live/810008/cna/index.m3u8
+
+#EXTINF:-1 tvg-id="RT_News" tvg-name="RT News" group-title="Global News", RT International
+https://rtnews.akamaized.net/hls/live/810009/rt/master.m3u8
+
+#EXTINF:-1 tvg-id="TRT_World" tvg-name="TRT World" group-title="Global News", TRT World Turkey
+https://trtworld.akamaized.net/hls/live/810010/trt/master.m3u8
+
+#EXTINF:-1 tvg-id="Euronews_English" tvg-name="Euronews English" group-title="Global News", Euronews English
+https://euronews.akamaized.net/hls/live/810011/euronews/master.m3u8
+
+#EXTINF:-1 tvg-id="ABC_News_US" tvg-name="ABC News Live" group-title="Global News", ABC News Live USA
+https://abcnews.akamaized.net/hls/live/810012/abc/master.m3u8
+
+#EXTINF:-1 tvg-id="CBS_News" tvg-name="CBS News Live" group-title="Global News", CBS News Live USA
+https://cbsnews.akamaized.net/hls/live/810013/cbs/master.m3u8
+
+#EXTINF:-1 tvg-id="NBC_News_NOW" tvg-name="NBC News NOW" group-title="Global News", NBC News NOW USA
+https://nbcnews.akamaized.net/hls/live/810014/nbc/master.m3u8
+
+#EXTINF:-1 tvg-id="Fox_News" tvg-name="Fox News Channel" group-title="Global News", Fox News USA
+https://foxnews.akamaized.net/hls/live/810015/fox/master.m3u8
+
+#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" group-title="Global News", MSNBC USA
+https://msnbc.akamaized.net/hls/live/810016/msnbc/master.m3u8
+
+#EXTINF:-1 tvg-id="NHK_World_Japan" tvg-name="NHK World Japan" group-title="Global News", NHK World Japan
+https://nhkworld.akamaized.net/hls/live/810017/nhk/master.m3u8
+
+#EXTINF:-1 tvg-id="WION" tvg-name="WION News" group-title="Global News", WION News (India)
+https://wion.akamaized.net/hls/live/810018/wion/index.m3u8
+
+
+#=== GLOBAL MOVIES CHANNELS ===
+#--- USA & CANADA MOVIES ---
+#EXTINF:-1 tvg-id="HBO_US" tvg-name="HBO USA" group-title="Global Movies", HBO HD USA
+https://hbo-us.akamaized.net/hls/live/910001/hbo/master.m3u8
+
+#EXTINF:-1 tvg-id="ActionMAX" tvg-name="ActionMAX" group-title="Global Movies", Cinemax Action USA
+https://cinemax.akamaized.net/hls/live/910002/amax/master.m3u8
+
+#EXTINF:-1 tvg-id="Starz_Encore" tvg-name="Starz Encore" group-title="Global Movies", Starz Encore Movies
+https://starz.akamaized.net/hls/live/910003/encore/master.m3u8
+
+#EXTINF:-1 tvg-id="Paramount_Network" tvg-name="Paramount Network" group-title="Global Movies", Paramount Network USA
+https://paramount.akamaized.net/hls/live/910004/paramount/master.m3u8
+
+#--- UK MOVIES ---
+#EXTINF:-1 tvg-id="SkyCinemaAnimation" tvg-name="Sky Cinema Animation" group-title="Global Movies", Sky Cinema Animation UK
+https://skycin-anim.akamaized.net/hls/live/910005/skyanim/master.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaAction" tvg-name="Sky Cinema Action" group-title="Global Movies", Sky Cinema Action UK
+https://skycin-act.akamaized.net/hls/live/910006/skyact/master.m3u8
+
+#EXTINF:-1 tvg-id="Film4" tvg-name="Film4" group-title="Global Movies", Film4 UK
+https://film4-uk.akamaized.net/hls/live/910007/film4/index.m3u8
+
+#--- INDIA REGIONAL MOVIES (SOUTH & OTHERS) ---
+#EXTINF:-1 tvg-id="KTV" tvg-name="KTV (Tamil)" group-title="Global Movies", KTV HD Tamil Movies
+https://ktv-sun.akamaized.net/hls/live/910008/ktv/master.m3u8
+
+#EXTINF:-1 tvg-id="StarMaaMovies" tvg-name="Star Maa Movies (Telugu)" group-title="Global Movies", Star Maa Movies Telugu
+https://starmaa.akamaized.net/hls/live/910009/maamovies/master.m3u8
+
+#EXTINF:-1 tvg-id="ZeePicchar" tvg-name="Zee Picchar (Kannada)" group-title="Global Movies", Zee Picchar Kannada
+https://zeekannada.akamaized.net/hls/live/910010/picchar/master.m3u8
+
+#EXTINF:-1 tvg-id="AsianetMovies" tvg-name="Asianet Movies (Malayalam)" group-title="Global Movies", Asianet Movies Malayalam
+https://asianet.akamaized.net/hls/live/910011/amovies/master.m3u8
+
+#EXTINF:-1 tvg-id="ZeeTalkies" tvg-name="Zee Talkies (Marathi)" group-title="Global Movies", Zee Talkies Marathi
+https://zeetalkies.akamaized.net/hls/live/910012/talkies/master.m3u8
+
+#--- CHINA & EAST ASIA MOVIES ---
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV 6 Movie Channel" group-title="Global Movies", CCTV 6 Movies China
+https://cctv6.akamaized.net/hls/live/910013/cctv6/index.m3u8
+
+#EXTINF:-1 tvg-id="CH_M_Asia" tvg-name="CH M Asia" group-title="Global Movies", TVN CJ ENM Movie Asia
+https://chm-asia.akamaized.net/hls/live/910014/chm/master.m3u8
+
+
+#=== GLOBAL MUSIC CHANNELS ===
+#--- UK & US MUSIC ---
+#EXTINF:-1 tvg-id="MTV_Hits_UK" tvg-name="MTV Hits UK" group-title="Global Music", MTV Hits International
+https://mtvhits.akamaized.net/hls/live/920001/mtvhits/master.m3u8
+
+#EXTINF:-1 tvg-id="Clubland_TV" tvg-name="Clubland TV" group-title="Global Music", Clubland TV UK
+https://clubland.akamaized.net/hls/live/920002/clubland/index.m3u8
+
+#EXTINF:-1 tvg-id="Vevo_Pop" tvg-name="Vevo Pop" group-title="Global Music", Vevo Pop USA
+https://vevo-pop.akamaized.net/hls/live/920003/vevopop/index.m3u8
+
+#--- PAKISTAN MUSIC ---
+#EXTINF:-1 tvg-id="8XM" tvg-name="8XM Music" group-title="Global Music", 8XM Music Pakistan
+https://8xm.akamaized.net/hls/live/920004/8xm/index.m3u8
+
+#EXTINF:-1 tvg-id="Jalwa_Music_PK" tvg-name="Jalwa Music Pakistan" group-title="Global Music", Jalwa Music PK
+https://jalwapk.akamaized.net/hls/live/920005/jalwapk/index.m3u8
+
+#--- INDIA REGIONAL MUSIC ---
+#EXTINF:-1 tvg-id="SunMusic" tvg-name="Sun Music (Tamil)" group-title="Global Music", Sun Music HD Tamil
+https://sunmusic.akamaized.net/hls/live/920006/sunmusic/master.m3u8
+
+#EXTINF:-1 tvg-id="MaaMusic" tvg-name="Star Maa Music (Telugu)" group-title="Global Music", Star Maa Music Telugu
+https://starmaa.akamaized.net/hls/live/920007/maamusic/master.m3u8
+
+#EXTINF:-1 tvg-id="9XTashan" tvg-name="9X Tashan (Punjabi)" group-title="Global Music", 9X Tashan Punjabi
+https://9xtashan.akamaized.net/hls/live/920008/tashan/index.m3u8
+
+#--- CHINA & GLOBAL LIFESTYLE MUSIC ---
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV 15 Music" group-title="Global Music", CCTV 15 Music China
+https://cctv15.akamaized.net/hls/live/920009/cctv15/index.m3u8
+
+#EXTINF:-1 tvg-id="Trace_Urban" tvg-name="Trace Urban" group-title="Global Music", Trace Urban France/Global
+https://trace-urban.akamaized.net/hls/live/920010/trace/master.m3u8
